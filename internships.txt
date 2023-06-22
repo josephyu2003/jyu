@@ -1,0 +1,69 @@
+Structure
+----
+name(s) of positions
+company
+location
+website
+----
+
+
+Lower Elementary Math Teacher, Marketing
+Think Academy US - TAL Education Group
+On-site ∙ San Jose, California, United States
+https://www.thethinkacademy.com/
+
+Middle School Math Teacher
+Alpha Public Schools (CA)
+On-site ∙ San Jose, California, United States
+https://www.alphapublicschools.org/
+
+Associate Software Engineer – Master’s Graduates in Computer Science
+Veeva Systems
+On-site ∙ Pleasanton, California, United States
+https://www.veeva.com/
+
+Engineer (Sr.) , Software
+Parade Technologies, Inc.
+On-site ∙ San Jose, California, United States
+https://www.paradetech.com/
+
+Research Data Analyst II
+California Department of Social Services
+Remote ∙ San Diego, California, United States
+https://www.cdss.ca.gov/
+
+Software Engineer
+Shaachi
+Remote ∙ San Francisco, California, United States
+https://www.linkedin.com/company/shaachi/
+
+Entry Level java developer
+Excelon Solutions
+Remote ∙ Pittsburg, California, United States
+https://www.excelonsolutions.com/
+
+Software Engineer
+Nemo IT Solutions
+On-site ∙ San Jose, California, United States
+https://www.nemoitsolutions.com/
+
+1. Infotainment Applications C++ Internship (Fall 2023)
+2. Embedded Software Internship, Infotainment (Fall 2023)
+Tesla
+On-site ∙ Palo Alto, California, United States
+https://www.tesla.com/
+
+eBay 2023 University Machine Learning Competition - Summer 2024 Internship Prize
+eBay
+On-site ∙ San Jose, California, United States 
+https://www.ebay.com/
+
+Paid Summer IT Internship - Genius Squad - San Francisco, CA
+Lavner Education
+On-site ∙ San Francisco, California, United States
+https://www.lavnercampsandprograms.com/
+
+Software Engineer Intern
+Sepragen Corporation
+On-site ∙ Union City, California, United States
+https://sepragen.com/
