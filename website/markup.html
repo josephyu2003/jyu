@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Home</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body onclick="play_music()">
+    <div id="topnav">
+        <p id="nav1" class="active" onclick="shift_pages('nav1','home')">Home</p>
+        <p id="nav2" onclick="shift_pages('nav2','educ')">Education/Experience</p>
+        <p id="nav3" onclick="shift_pages('nav3','cont')">Contacts</p>
+    </div>
+    <div id="main">
+        <div id="home" class="active"> 
+            <h1> My name is Joseph Yu, and welcome to my website.</h1>
+            <img id="profile" src="profile.jpg" alt="my_profile">
+        </div>
+        <div id="educ"> 
+            <h1>A Brief Biography</h1>
+            <p class='p l'>
+                My name is Joseph Yu. I am an undergraduate senior from Santa Clara University, who is majoring in computer science and engineering and aiming for a Bachelor's degree. I have plenty of experience in Python, Java, and many other programming languages. I have been coding since I was five, and have some interest in other disciplines like philosophy and political science. I am generally creative, accountable, and always brimming with new ideals. I am incredibly good at recognizing connections quickly and passing down concepts through graphs and analogies. I am a responsible and dependable contributor to projects, especially in conjunction with a team effort, and am excellent at acting as a mediator in times of conflict. I am willing to work overtime and will always attempt to exceed the common standards of the workplace, no matter what those might be. 
+            </p>
+            <img id="school" src="channels4_profile.jpg" alt="">
+        </div>
+        <div id="cont"> 
+            <h1>Contact List</h1>
+            <p class='p'>
+                Emails: jyu4@scu.edu, joseph.zc.yu@gmail.com <br />
+                Phone Number: 650-445-1446 (mobile) <br /><br />
+                Background image and music in Creative Commons.
+            </p>
+        </div>
+    </div>
+</body>
+<script src="script.js"></script> 
+</html>
