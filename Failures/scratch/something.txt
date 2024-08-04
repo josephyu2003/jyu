@@ -1,0 +1,11 @@
+NODE *npi = lp->head;
+        int i, isVacant = 0;
+        for (i=0; i<lp->count; i++) {
+                if (npi->count < 10) {
+                        isVacant = 1;
+                        break;
+                }
+                else npi = npi->post;
+        }
+
+
